@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "_": "https://deno.land/x/lodash@4.17.19/lodash.js",
+    "deno_dom": "https://deno.land/x/deno_dom@v0.1.12-alpha/deno-dom-native.ts",
+    "fmt/": "https://deno.land/std/fmt/",
+    "fs/": "https://deno.land/std/fs/",
+    "http/": "https://deno.land/std/http/",
+    "log/": "https://deno.land/std/log/",
+    "servest": "https://deno.land/x/servest@v1.3.1/mod.ts"
+  }
+}
